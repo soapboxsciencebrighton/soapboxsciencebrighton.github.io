@@ -6,6 +6,10 @@ html, body {
   color:#222222;
   width: 80%;
   max-width: 800px;
+
+  margin-left: auto;
+  margin-right: auto;
+
 }
 
 .SBSBimgs {
