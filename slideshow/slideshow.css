@@ -1,16 +1,17 @@
 .slideshowborderbox {
   margin-left: auto;
   margin-right: auto;
-  width: 700px;
+  width: 500px;
 }
 
 /* Slideshow container */
 .slideshow-container {
   max-width: 450px;
+  height: 300px;
   width: auto;
   position: relative;
 
- margin-left: 0px; 
+ margin-left: auto; 
  margin-right: auto;
 }
 
@@ -52,10 +53,9 @@
 /* Caption text */
 .text {
   font-size: 15px;
-  padding: 0px 0px 0px 15px;
+  padding: 10px 0px 0px 0px;
   position: absolute;
-  right: -270px;
-  top: 0px;
+  top: 400px;
   width: 240px;
   text-align: center;
 }
