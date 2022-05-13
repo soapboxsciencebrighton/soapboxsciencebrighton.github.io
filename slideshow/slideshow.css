@@ -25,7 +25,7 @@
 .prev, .next {
   cursor: pointer;
   position: absolute;
-  top: 125px;
+  top: 100px;
   width: auto;
   padding: 16px;
   color: white;
@@ -55,7 +55,7 @@
 .text {
   display: block;
   font-size: 15px;
-  top: 275px;
+  top: 100%;
   padding: 10px 25px 0px 25px;
   position: absolute;
   max-width: 450px;
