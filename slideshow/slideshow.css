@@ -10,7 +10,7 @@
   width: auto;
   position: relative;
 
- margin-left: auto; 
+ margin-left: 0px; 
  margin-right: auto;
 }
 
@@ -52,7 +52,6 @@
 
 /* Caption text */
 .text {
-  color: #f2f2f2;
   font-size: 15px;
   padding: 8px 0px 12px 0px;
   position: absolute;
@@ -60,7 +59,6 @@
   top: 0px;
   width: 240px;
   text-align: center;
-  background: rgba(0,0,0,0.5)
 }
 
 /* Number text (1/3 etc) */
