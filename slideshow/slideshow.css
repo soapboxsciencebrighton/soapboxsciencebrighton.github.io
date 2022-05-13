@@ -55,7 +55,7 @@
 .text {
   display: block;
   font-size: 15px;
-/*  top: 100%; */
+  top: 280px;
   padding: 10px 25px 0px 25px;
   position: absolute;
   max-width: 450px;
@@ -117,6 +117,7 @@
 /* Basically, move the text below the image (rather than on top), and also move the dots */
 .text {
   font-size: 0.75em;
+  top: 225px;
 }
   
   
