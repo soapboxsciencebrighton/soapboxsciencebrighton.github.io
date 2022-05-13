@@ -23,7 +23,8 @@
 .prev, .next {
   cursor: pointer;
   position: absolute;
-  top: 80px;
+  top: 50%;
+  bottom: 50%;
   width: auto;
   padding: 16px;
   color: white;
