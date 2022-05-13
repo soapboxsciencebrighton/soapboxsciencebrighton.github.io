@@ -55,7 +55,7 @@
 .text {
   display: block;
   font-size: 15px;
-  top: 100%;
+/*  top: 100%; */
   padding: 10px 25px 0px 25px;
   position: absolute;
   max-width: 450px;
