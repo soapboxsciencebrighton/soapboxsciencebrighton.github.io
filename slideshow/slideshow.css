@@ -61,6 +61,10 @@
   width: 80%;
   max-width: 450px;
   text-align: center;
+  
+  margin-left: auto;
+  margin-right: auto;
+
 }
 
 /* Number text (1/3 etc) */
@@ -113,30 +117,8 @@
   
 /* Basically, move the text below the image (rather than on top), and also move the dots */
 .text {
-  bottom: 32px;  
   font-size: 0.75em;
 }
   
-.dotsdivbox {
-  top: 0px;
-  padding-top:  50px; 
-}
-  
-.prev, .next {
-  top: 33%;
-  }
-  
-.prev:hover, .next:hover {
-  background-color: rgba(0,0,0,0.3);
-  }
-  
-.prev, .next {
-  background-color: rgba(0,0,0,0.3);
-  }
-  
-.slideshowborderbox {
-  margin-left: auto;
-  margin-right: auto;
-  }
   
 }
