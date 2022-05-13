@@ -55,8 +55,9 @@
   font-size: 15px;
   padding: 8px 0px 12px 0px;
   position: absolute;
-  right: -100px;
-  width: 100%;
+  right: -240px;
+  top: 0px;
+  width: 240px;
   text-align: center;
   background: rgba(0,0,0,0.5)
 }
