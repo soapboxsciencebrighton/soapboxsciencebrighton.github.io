@@ -72,6 +72,7 @@
 /* The dots/bullets/indicators */
 .dotsdivbox {
   text-align:center;
+  padding-top: 10px;
 }
 
 .dot {
