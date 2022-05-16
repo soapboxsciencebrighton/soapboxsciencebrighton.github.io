@@ -100,7 +100,7 @@ li {
 /* if screen is narrow, make the following changes */
 
 @media screen and (max-width: 800px) {
-  SBSBimgs {
+  .SBSBimgs {
       width: 160px;
   }
   
