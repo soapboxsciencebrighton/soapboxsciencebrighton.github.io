@@ -25,11 +25,12 @@ a {
   margin-left: auto; 
   margin-right: auto;
   z-index: 1;
+  width: 320px;
   hspace: 20px;
 }
 
 
-/*  This sets the div-box for the .BLimgs (images) to go in.  It changes size if the windows shrinks (=on a mobile phone) - see far below for that code.  */
+/*  This sets the div-box for the .SBSBimgs (Soap Box Science Brighton images) to go in.  It changes size if the windows shrinks (=on a mobile phone) - see far below for that code.  */
 .SBSBimgsdiv {
  width: 360px;
  position: relative; 
@@ -96,4 +97,14 @@ li {
   z-index: 1;
 }
 
+/* if screen is narrow, make the following changes */
+
+@media screen and (max-width: 800px) {
+  SBSBimgs {
+      width: 40%;
+  }
+  
+}
+
+  
 
