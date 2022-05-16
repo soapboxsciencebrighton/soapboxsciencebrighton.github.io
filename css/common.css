@@ -12,6 +12,10 @@ html, body {
 
 }
 
+a {
+ color: #4444ff; 
+}
+
 .SBSBimgs {
   border: 4px solid #cccccc;
   margin: 20px 20px 20px 100px;
