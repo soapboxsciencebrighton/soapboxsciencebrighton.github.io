@@ -29,7 +29,6 @@ a {
   position: relative;
   
   text-align: center;
-  z-index: 1;
   width: 120px;
   height: 180px;
 
@@ -42,6 +41,7 @@ a {
 .frontpagemenuimgtext  {
   display: block;
   position: relative;
+  z-index: 1;
 
   vertical-align: middle;
   text-align: center;
