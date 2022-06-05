@@ -16,6 +16,32 @@ a {
  color: #6666dd; 
 }
 
+.frontpagemenuimgs  {
+  margin: 20px 20px 20px 20px;
+  text-align: center;
+  float: left;
+  z-index: 1;
+  width: 120px;
+  height: 180px;
+  hspace: 20px;
+}
+
+
+.frontpagemenuimgtext  {
+    display: block;
+  font-size: 15px;
+  top: 280px;
+  padding: 10px 25px 0px 25px;
+  position: absolute;
+  width: 90%;
+  max-width: 450px;
+  text-align: center;
+  
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
 .SBSBimgs {
   border: 4px solid #cccccc;
   margin: 20px 20px 20px 100px;
