@@ -18,7 +18,7 @@ a {
 
 
 .frontpagemenuimgbox {
-  display: inline;
+  display: block;
   width: 140px;
   height: 200px;
   float: left;
@@ -44,7 +44,6 @@ a {
   position: relative;
 
   vertical-align: middle;
-  position: absolute;
   text-align: center;
 
   left: 0px;
