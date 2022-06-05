@@ -21,7 +21,8 @@ a {
   display: block;
   width: 140px;
   height: 200px;
-  float: center;
+  text-align: center;
+  margin: auto;
 }
 
 .frontpagemenuimg {
@@ -36,7 +37,7 @@ a {
   margin-left: auto;
   margin-right: auto;
 
-  float: center;
+  float: left;
 }
   
 
