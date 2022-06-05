@@ -24,6 +24,8 @@ a {
 }
 
 .frontpagemenuimg {
+  display: relative;
+  
   text-align: center;
   z-index: 1;
   width: 120px;
@@ -36,7 +38,7 @@ a {
 
 
 .frontpagemenuimgtext  {
-  display: inline-block;
+  display: relative;
   vertical-align: middle;
   position: absolute;
   text-align: center;
@@ -46,6 +48,7 @@ a {
   width: 120px;
   height: 40px;
   
+  text-color: #ffffff;
   background-color: rgba(0,0,0,0.75);  
 }
 
