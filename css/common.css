@@ -17,11 +17,19 @@ a {
 }
 
 
-.frontpagemenuimgbox {
-  display: block;
+.frontpagemenubox {
+  display: flex;
   justify-content: center;
+  text-align: center; 
+  margin-left: auto; 
+  margin-right: auto; 
+  width: 100%;"
+}
+
+.frontpagemenuimgbox {
   width: 140px;
   height: 200px;
+
   text-align: center;
   margin: auto;
   float: left;
