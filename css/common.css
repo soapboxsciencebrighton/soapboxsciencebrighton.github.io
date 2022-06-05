@@ -18,13 +18,15 @@ a {
 
 
 .frontpagemenuimgbox {
+  display: inline;
   width: 140px;
   height: 200px;
   float: left;
 }
 
 .frontpagemenuimg {
-  display: relative;
+  display: block;
+  position: relative;
   
   text-align: center;
   z-index: 1;
@@ -38,7 +40,9 @@ a {
 
 
 .frontpagemenuimgtext  {
-  display: relative;
+  display: block;
+  position: relative;
+
   vertical-align: middle;
   position: absolute;
   text-align: center;
