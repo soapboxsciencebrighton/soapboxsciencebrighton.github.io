@@ -23,6 +23,7 @@ a {
 }
 
 .frontpagemenuimgbox {
+  display: inline-block;
   width: 140px;
   height: 200px;
 
