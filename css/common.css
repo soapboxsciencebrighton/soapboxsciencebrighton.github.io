@@ -23,6 +23,7 @@ a {
   height: 200px;
   text-align: center;
   margin: auto;
+  float: left;
 }
 
 .frontpagemenuimg {
