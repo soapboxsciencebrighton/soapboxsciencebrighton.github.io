@@ -20,6 +20,7 @@ a {
 .frontpagemenubox {
   text-align: center; 
   max-width: 720px;
+  width: 100%;
 }
 
 .frontpagemenuimgbox {
@@ -28,8 +29,6 @@ a {
   height: 200px;
 
   text-align: center;
-  margin: auto;
-  float: left;
 }
 
 .frontpagemenuimg {
