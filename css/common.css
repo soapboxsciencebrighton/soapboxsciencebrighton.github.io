@@ -170,6 +170,7 @@ li {
 .speaker_inner {
   width: 50%;
   height: 100%;
+  float: left;
 }
 
 /* if screen is narrow, make the following changes */
