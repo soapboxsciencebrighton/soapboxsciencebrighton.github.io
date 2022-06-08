@@ -163,6 +163,15 @@ li {
   z-index: 1;
 }
 
+.speaker_outer {
+  width: 100%;
+}
+
+.speaker_inner {
+  width: 50%;
+  height: 100%;
+}
+
 /* if screen is narrow, make the following changes */
 
 @media screen and (max-width: 800px) {
