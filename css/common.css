@@ -170,7 +170,7 @@ li {
 .speaker_img {
   width: 50%;
   height: 100%;
-  float: left;
+  float: right;
 }
 
 /* if screen is narrow, make the following changes */
