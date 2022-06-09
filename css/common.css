@@ -183,6 +183,13 @@ li {
   text-align: center;
 }
 
+
+.speaker_text {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  min-height: 320px;
+}
+
 .speaker_img {
   width: 320px;
   /* height is probably 180px  */
