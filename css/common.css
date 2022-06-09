@@ -97,10 +97,10 @@ a {
 
 
 /*  This sets the div-box for the .SBSBimgs (Soap Box Science Brighton images) to go in.  It changes size if the windows shrinks (=on a mobile phone) - see far below for that code.  */
-.SBSBimgsdiv {
- width: 360px;
- position: relative; 
- display:inline-block;
+.SBSBimgsdiv { 
+  width: 360px;
+  position: relative; 
+  display:inline-block;
 }
 
 .SBSBimgsdiv hr {
@@ -165,7 +165,7 @@ li {
 
 .slideshow-caption-pastevents
 {
-  style="text-align: center; 
+  text-align: center; 
   margin-left: auto; 
   margin-right: auto;
 }
@@ -200,7 +200,7 @@ li {
   
   .slideshow-caption-pastevents
   {
-  margin-top: -20px;
+    margin-top: -40px;
   }
 
   
