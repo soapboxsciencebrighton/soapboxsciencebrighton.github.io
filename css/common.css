@@ -203,9 +203,12 @@ li {
     margin-top: -40px;
   }
 
+  .speaker_inner {
+  width: 200px;
+  }
   
   .speaker_img {
-    width: 240px;
+    width: 180px;
   }
     
   h1 {
