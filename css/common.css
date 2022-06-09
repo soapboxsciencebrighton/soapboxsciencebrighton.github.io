@@ -163,6 +163,13 @@ li {
   z-index: 1;
 }
 
+.slideshow-caption-pastevents
+{
+  style="text-align: center; 
+  margin-left: auto; 
+  margin-right: auto;
+}
+
 .speaker_outer {
   width: 100%;
 }
@@ -190,6 +197,12 @@ li {
 /* if screen is narrow, make the following changes */
 
 @media screen and (max-width: 800px) {
+  
+  .slideshow-caption-pastevents
+  {
+  margin-top: -20px;
+  }
+
   
   .speaker_img {
     width: 240px;
