@@ -211,6 +211,11 @@ li {
     margin-right: auto;
     padding-top: 24px;
   }
+  
+  
+.speaker_text {
+  min-height: 0px;
+}
     
   h1 {
     font-size: 2.4em;
