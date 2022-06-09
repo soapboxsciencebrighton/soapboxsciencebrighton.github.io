@@ -178,8 +178,6 @@ li {
   width: 50%;
   height: 200px;
   float: right;
-  padding-left: 20px;
-  padding-right: 42px;
   padding-top: 52px;
   padding-bottom: 24px;
   text-align: center;
@@ -206,6 +204,9 @@ li {
   .speaker_inner {
     width: 100%;
     text-align: center; 
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
   }
     
   h1 {
