@@ -180,6 +180,7 @@ li {
 
 .speaker_img {
   width: 320px;
+  border: 10px;
   /* height is probably 180px  */
 }
 
