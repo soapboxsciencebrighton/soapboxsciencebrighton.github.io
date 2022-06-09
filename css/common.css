@@ -204,11 +204,7 @@ li {
   }
 
   .speaker_inner {
-  width: 200px;
-  }
-  
-  .speaker_img {
-    width: 180px;
+  width: 100%;
   }
     
   h1 {
