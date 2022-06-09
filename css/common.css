@@ -196,11 +196,6 @@ li {
 
 @media screen and (max-width: 800px) {
   
-  .slideshow-caption-pastevents
-  {
-    margin-top: -40px;
-  }
-
   .speaker_inner {
     width: 100%;
     text-align: center; 
