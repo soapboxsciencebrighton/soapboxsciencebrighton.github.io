@@ -171,10 +171,10 @@ li {
   width: 50%;
   height: 200px;
   float: right;
-  margin-left: 20px;
-  margin-right: 32px;
-  margin-top: 52px;
-  margin-bottom: 30px;
+  padding-left: 20px;
+  padding-right: 32px;
+  padding-top: 52px;
+  padding-bottom: 30px;
   text-align: center;
 }
 
