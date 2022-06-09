@@ -167,15 +167,25 @@ li {
   width: 100%;
 }
 
-.speaker_img {
+.speaker_inner {
   width: 50%;
   height: 250px;
   float: right;
 }
 
+.speaker_img {
+  width: 320px;
+}
+
+
 /* if screen is narrow, make the following changes */
 
 @media screen and (max-width: 800px) {
+  
+  .speaker_img {
+  width: 160px;
+  }
+  
   .SBSBimgs {
       width: 160px;
   }
