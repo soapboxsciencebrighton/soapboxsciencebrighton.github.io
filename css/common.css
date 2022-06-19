@@ -178,7 +178,7 @@ li {
   width: 50%;
   height: 200px;
   float: right;
-  padding-top: 52px;
+  padding-top: 20px;  /*was 52px */
   padding-bottom: 24px;
   text-align: center;
 }
