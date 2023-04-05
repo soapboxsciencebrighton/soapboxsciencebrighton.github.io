@@ -199,6 +199,20 @@ li {
   margin-right: auto;
 }
 
+.speaker_hdr {
+  display: block;
+  width: 480px;
+  border: 10px;
+  text-align: center;
+}
+  
+.speaker_txt {
+  display: block;
+  width: 80%;
+  border: 10px;
+  text-align: center;
+  }    
+    
 .speaker_img2 {
   display: block;
   width: 480px;
