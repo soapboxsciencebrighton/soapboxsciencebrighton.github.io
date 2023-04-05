@@ -200,6 +200,7 @@ li {
 }
 
 .speaker_img2 {
+  display: block;
   width: 480px;
   border: 10px;
   text-align: center;
