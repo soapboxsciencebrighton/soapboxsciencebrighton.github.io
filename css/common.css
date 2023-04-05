@@ -258,7 +258,14 @@ li {
   height: 36px; 
   border: 0px; 
   margin-right: 10px;
-  
 }
-  
+ 
+
+.twit2 {
+  height: 36px; 
+  border: 0px; 
+  margin-right: 100px;
+  margin-top: -8px;
+  float: right;
+}
 
