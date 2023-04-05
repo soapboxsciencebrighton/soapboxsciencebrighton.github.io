@@ -216,8 +216,7 @@ li {
     
 .speaker_img2 {
   display: block;
-  width: 100%;
-  max-width: 480px;
+  width: 480px;
   border: 10px;
   text-align: center;
   margin-left: auto;
@@ -237,6 +236,9 @@ li {
     padding-top: 24px;
   }
   
+  .speaker_img2 {
+    width: 100%;
+  }
   
 .speaker_text {
   min-height: 0px;
