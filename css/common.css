@@ -163,6 +163,14 @@ li {
   z-index: 1;
 }
 
+.speakertable td {
+  border-style: dotted;
+  border: 1px solid white;
+  border-collapse: collapse;
+  background-color: #99cc99;
+  
+}
+
 .slideshow-caption-pastevents
 {
   text-align: center; 
