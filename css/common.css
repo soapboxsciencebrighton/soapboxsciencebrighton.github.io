@@ -165,8 +165,9 @@ li {
 
 .speakertable td {
   border-style: dotted;
-  border: 1px solid #ddffdd;
+  border: 1px dotted #889999;
   border-collapse: collapse;
+  
 /*  background-color: #99cc99;  */
   
 }
