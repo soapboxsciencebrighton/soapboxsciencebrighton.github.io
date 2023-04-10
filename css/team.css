@@ -24,6 +24,11 @@
   padding: 0 16px;
 }
 
+.container a {
+ color: #444444; 
+}
+
+
 /* Clear floats */
 .container::after, .row::after {
   content: "";
