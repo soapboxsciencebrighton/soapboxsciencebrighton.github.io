@@ -24,10 +24,6 @@
   padding: 0 16px;
 }
 
-.container a {
- color: #444444; 
-}
-
 
 /* Clear floats */
 .container::after, .row::after {
@@ -46,6 +42,7 @@
   display: inline-block;
   padding: 8px;
   color: white;
+  a.color: white;
   background-color: #000;
   text-align: center;
   cursor: pointer;
