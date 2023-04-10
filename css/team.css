@@ -33,7 +33,11 @@
 }
 
 .title {
-  color: grey;
+  color: #444444;
+}
+
+.describe {
+  color: #888888; 
 }
 
 .button {
