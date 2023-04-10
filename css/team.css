@@ -42,7 +42,6 @@
   display: inline-block;
   padding: 8px;
   color: white;
-  a.color: white;
   background-color: #000;
   text-align: center;
   cursor: pointer;
@@ -52,4 +51,11 @@
 .button:hover {
   background-color: #555;
 } 
+
+
+.container a {
+ color: white;
+}
+
+
 
