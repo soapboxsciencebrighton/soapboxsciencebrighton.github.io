@@ -241,6 +241,10 @@ li {
   margin-right: auto;
 }
 
+  .headerfudge {
+    margin-top: 0px;
+  }
+
 /* if screen is narrow, make the following changes */
 
 @media screen and (max-width: 800px) {
@@ -276,6 +280,9 @@ li {
    margin: 15px;
   }
 
+  .headerfudge {
+    margin-top: -10px;
+  }
   
   .SBSBimgs {
       width: 160px;
