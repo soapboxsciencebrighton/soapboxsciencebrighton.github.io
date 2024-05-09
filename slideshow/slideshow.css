@@ -48,11 +48,11 @@
 
 /* Position the "next button" to the right */
 .next {
-  right: -60px;
+  right: -40px;
 }
 
 .prev {
-  left: -60px;
+  left: -40px;
 }
 
 /* On hover, add a black background color with a little bit see-through */
