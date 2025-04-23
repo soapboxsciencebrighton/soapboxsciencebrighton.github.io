@@ -89,6 +89,15 @@
   top: 0;
 }
 
+/* .blacknumbertext is the same as .numbertext, just with a darker font.  */
+.blacknumbertext {
+  color: #020202;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
 /* The dots/bullets/indicators */
 .dotsdivbox {
   text-align:center;
