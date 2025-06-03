@@ -17,15 +17,15 @@ function showAutoSlides2() {
   for (i = 0; i < dots2.length; i++) {
     dots2[i].className = dots2[i].className.replace(" active", "");
   }
-  slides2[slideIndex-1].style.display = "block";  
-  dots2[slideIndex-1].className += " active";
+  slides2[slideIndex2-1].style.display = "block";  
+  dots2[slideIndex2-1].className += " active";
    
   setTimeout(showAutoSlides2, 4000); // Change image every 4 seconds
   
 }
 
 // let slideIndex2 = 1;
-showManSlides(slideIndex2);
+showManSlides2(slideIndex2);
 
 // Next/previous controls
 function plusSlides2(n) {
@@ -56,6 +56,6 @@ function showManSlides2(n) {
   for (i = 0; i < dots2.length; i++) {
     dots2[i].className = dots2[i].className.replace(" active", "");
   }
-  slides2[slideIndex-1].style.display = "block";
-  dots2[slideIndex-1].className += " active";
+  slides2[slideIndex2-1].style.display = "block";
+  dots2[slideIndex2-1].className += " active";
 } 
