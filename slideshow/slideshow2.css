@@ -1,0 +1,151 @@
+.slideshowborderbox2 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  max-width: 500px;
+}
+
+/* Slideshow container */
+.slideshow-container2 {
+  max-width: 450px;
+  height: 540px;
+  width: auto;
+  position: relative;
+
+ margin-left: auto; 
+ margin-right: auto;
+}
+
+/* Slideshow container */
+.slideshow-container-pastevents2 {
+  max-width: 450px;
+ /*  height: 360px;  */
+  width: auto;
+  position: relative;
+ margin-left: auto; 
+ margin-right: auto;
+}
+
+/* Hide the images by default */
+.mySlides2 {
+  display: none;
+}
+
+/* Next & previous buttons */
+.prev2, .next2 {
+  cursor: pointer;
+  position: absolute;
+  top: 100px;
+  width: auto;
+  padding: 16px;
+  color: #777777;
+  font-weight: bold;
+  font-size: 28px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next2 {
+  right: -40px;
+}
+
+.prev2 {
+  left: -40px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev2:hover, .next2:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+.slidesimages2 {
+  width: 100%;
+}
+
+/* Caption text */
+.text2 {
+  display: block;
+  font-size: 15px;
+  top: 280px;
+  padding: 10px 25px 0px 25px;
+  position: absolute;
+  width: 90%;
+  max-width: 450px;
+  text-align: center;
+  
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+/* Number text (1/3 etc) */
+.numbertext2 {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* .blacknumbertext is the same as .numbertext, just with a darker font.  */
+.blacknumbertext2 {
+  color: #020202;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 200px;
+  left: -40px;
+}
+
+/* The dots/bullets/indicators */
+.dotsdivbox2 {
+  text-align:center;
+  padding-top: 10px;
+}
+
+.dot2 {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 2px;  /* was : 0 2px;  */
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active2, .dot2:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade2 {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@keyframes fade2 {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+
+
+
+
+/* If the screen is narrow, either on a computer of a phone, then the following formatting tweaks it accordingly */
+@media screen and (max-width: 800px) {
+  
+/* Basically, move the text below the image (rather than on top), and also move the dots */
+.text2 {
+  font-size: 0.75em;
+  top: 225px;
+}
+  
+.slideshow-container2 {
+  height: 450px;
+  }
+  
+}
