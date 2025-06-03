@@ -46,8 +46,8 @@ function currentSlide2(n) {
 
 function showManSlides2(n) {
   let i;
-  let slides = document.getElementsByClassName("mySlides2");
-  let dots = document.getElementsByClassName("dot2");
+  let slides2 = document.getElementsByClassName("mySlides2");
+  let dots2 = document.getElementsByClassName("dot2");
   if (n > slides2.length) {slideIndex2 = 1}
   if (n < 1) {slideIndex2 = slides2.length}
   for (i = 0; i < slides2.length; i++) {
