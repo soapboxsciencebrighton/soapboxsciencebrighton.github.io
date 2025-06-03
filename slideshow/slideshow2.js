@@ -36,12 +36,12 @@ function plusSlides2(n) {
   }
   
   showAutoSlides2 = 0;
-  showManSlides(slideIndex2 += n);
+  showManSlides2(slideIndex2 += n);
 }
 
 // Thumbnail image controls
 function currentSlide2(n) {
-  showManSlides(slideIndex2 = n);
+  showManSlides2(slideIndex2 = n);
 }
 
 function showManSlides2(n) {
